@@ -1,3 +1,3 @@
-# Attack_Trained_Classifier
+# Adverse Attachs on LeNet CNN Classifier used to Classify Fasion MNIST dataset.
 Adverse Machine Learning (ML) attacks are a growing threat to ML models, the goal of these attacks are to deceive the ML model into giving away sensitive information or making incorrect predictions. In this project I have used the Fashion MNIST dataset to train a LeNet ML model. LeNet is a Convolutional Neural Network (CNN) that uses a combination of convolutions, pooling and fully connected layers. The LeNet architecture is used to classify this images with an accuracy of 90.33%. Machine Learning models can outperform humans in various tasks, such as image classification. However, adverse attacks can interfere with the integrity of these models. I will showcase Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) attack on the above LeNet model, that is used to classify the Fashion MNIST data set.
 
